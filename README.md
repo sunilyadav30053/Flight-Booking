@@ -6,6 +6,8 @@ it is a frontend for a simple flight booking website. it is fully responsive web
   * select city and airport 
   * find Airoplane
   * Book Ticket
+
+Tech Stack:-HTML, CSS,JavaScript
   
   Code URL:-https://github.com/sunilyadav30053/Flight-Booking
   
